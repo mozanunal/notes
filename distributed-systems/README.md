@@ -23,6 +23,12 @@ https://www.youtube.com/watch?v=Y6Ev8GIlbxc&feature=youtu.be
 ### Docker Swarm or Kubernetes or Mesos - pick your framework! by Arun Gupta
 https://www.youtube.com/watch?v=1dgUXNVQS5o&feature=youtu.be
 
+### Task Queues: A Celery Story
+https://www.youtube.com/watch?v=ceJ-vy7fvus&feature=youtu.be
+
+### Should You Run Your Database in Docker?
+https://vsupalov.com/database-in-docker/
+
 ### How We've Scaled Dropbox
 https://www.youtube.com/watch?v=PE4gwstWhmc&feature=youtu.be
 
