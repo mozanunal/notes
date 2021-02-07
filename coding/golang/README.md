@@ -13,3 +13,5 @@ https://www.youtube.com/watch?v=rDRa23k70CU&feature=youtu.be
 ### Golang REST API With Mux
 https://www.youtube.com/watch?v=SonwZ6MF5BE&feature=youtu.be
 
+### Golang Todo App
+https://fadhil-blog.dev/blog/golang-todolist/
