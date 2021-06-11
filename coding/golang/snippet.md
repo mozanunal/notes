@@ -1,8 +1,4 @@
-```
-
-
-
-
+```go
 package main
 
 import (
